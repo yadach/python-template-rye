@@ -1,5 +1,5 @@
 [project]
-name = "python-template-rye"
+name = "python-template"
 version = "0.1.0"
 description = "Python project template with rye."
 authors = [
@@ -29,4 +29,4 @@ dev-dependencies = [
 allow-direct-references = true
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/python_template_rye"]
+packages = ["src/python_template"]
