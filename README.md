@@ -1,12 +1,9 @@
 # Python project template with rye
 
-## install rye
+## Install rye
+See the [Rye Homepage](https://rye-up.com/) for the installation.
 
-```bash
-$ curl -sSf https://rye-up.com/get | bash
-```
-
-## install this template repository
+## Install this template repository
 
 ```bash
 $ rye sync
